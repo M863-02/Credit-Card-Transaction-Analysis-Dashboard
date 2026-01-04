@@ -86,9 +86,11 @@ The data is sourced from CSV files, transformed using Power Query, and analyzed 
 ## Dashboard Preview
 
 ### Customer Report
-![alt text](image.png)
+<img width="2010" height="1127" alt="image" src="https://github.com/user-attachments/assets/c8deb7c6-99f8-4bc4-b56a-45d7d3909ea8" />
+
 ### Transaction Report
-![alt text](image-1.png)
+<img width="2011" height="1122" alt="image" src="https://github.com/user-attachments/assets/d0063827-38b2-4229-9e3f-09b39a63a3da" />
+
 
 
 
