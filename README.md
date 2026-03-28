@@ -1,4 +1,4 @@
-# Credit Card Dashboard
+# Credit Card Transaction Analysis Dashboard
 
 ## Overview
 
