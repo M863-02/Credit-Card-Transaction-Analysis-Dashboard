@@ -1,4 +1,4 @@
-# Financial_Dashboard
+# Credit Card Dashboard
 
 ## Overview
 
